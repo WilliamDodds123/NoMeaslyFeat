@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Uni Work/Year 2/LaunchTitle/NoMeaslyFeat/Content/WilliamStuff/BlueGlow.uasset",
+				"E:/Uni Work/Year 2/LaunchTitle/NoMeaslyFeat/Content/WilliamStuff/BLockMoving.uasset",
+				"E:/Uni Work/Year 2/LaunchTitle/NoMeaslyFeat/Content/__ExternalActors__/WilliamStuff/Levels/2dSectionTest/6/EY/JUNANPP5J05DV0DQ4W25EH.uasset",
+				"E:/Uni Work/Year 2/LaunchTitle/NoMeaslyFeat/Content/__ExternalActors__/WilliamStuff/Levels/2dSectionTest/1/IZ/5X4O2XZR9CBMTAE9QD5JGG.uasset",
+				"E:/Uni Work/Year 2/LaunchTitle/NoMeaslyFeat/Content/__ExternalActors__/WilliamStuff/Levels/2dSectionTest/1/09/VY8E6ZJMOOUXE6I4K4031B.uasset",
+				"E:/Uni Work/Year 2/LaunchTitle/NoMeaslyFeat/Content/__ExternalActors__/WilliamStuff/Levels/2dSectionTest/E/BD/HSG9N4YIGBP0AEAXUNB2JB.uasset",
+				"E:/Uni Work/Year 2/LaunchTitle/NoMeaslyFeat/Content/__ExternalActors__/WilliamStuff/Levels/2dSectionTest/4/4U/ZCZWCOUCQ45A64S5DVNHF1.uasset",
+				"E:/Uni Work/Year 2/LaunchTitle/NoMeaslyFeat/Content/__ExternalActors__/WilliamStuff/Levels/2dSectionTest/2/RS/30TJ0FZXQW2668J8AZUVA4.uasset",
+				"E:/Uni Work/Year 2/LaunchTitle/NoMeaslyFeat/Content/__ExternalActors__/WilliamStuff/Levels/2dSectionTest/6/LU/75CCKC3Y7JPMSBVWUAJ0ZD.uasset",
+				"E:/Uni Work/Year 2/LaunchTitle/NoMeaslyFeat/Content/WilliamStuff/Levels/2dSectionTest.umap",
+				"E:/Uni Work/Year 2/LaunchTitle/NoMeaslyFeat/Content/WilliamStuff/DropBlockForWall.uasset",
+				"E:/Uni Work/Year 2/LaunchTitle/NoMeaslyFeat/Content/WilliamStuff/BlockFal.uasset",
+				"E:/Uni Work/Year 2/LaunchTitle/NoMeaslyFeat/Content/__ExternalActors__/WilliamStuff/Levels/2dSectionTest/6/1G/AKSM3IDW67RRMW0WNMZDJ1.uasset",
+				"E:/Uni Work/Year 2/LaunchTitle/NoMeaslyFeat/Content/__ExternalActors__/WilliamStuff/Levels/2dSectionTest/B/3X/B70O8L1QDB1HX5PWC5FYC7.uasset",
+				"E:/Uni Work/Year 2/LaunchTitle/NoMeaslyFeat/Content/__ExternalActors__/WilliamStuff/Levels/2dSectionTest/2/3Z/PK1IH4GEKPKSA0ZSK4IJ9J.uasset",
+				"E:/Uni Work/Year 2/LaunchTitle/NoMeaslyFeat/Content/__ExternalActors__/WilliamStuff/Levels/2dSectionTest/7/C4/TLP8VV3CDJP32IQNLX57VO.uasset"
+			]
+		}
+	]
+}
