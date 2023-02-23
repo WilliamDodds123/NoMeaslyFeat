@@ -5,7 +5,26 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/B00838624/Desktop/NoMeaslyFeat/Content/WilliamStuff/Levels/2dSectionTest.umap"
+				"C:/Users/B00838624/Desktop/NoMeaslyFeat/Content/WilliamStuff/Levels/2dSectionTest.umap",
+				"C:/Users/B00838624/Desktop/NoMeaslyFeat/Content/__ExternalActors__/WilliamStuff/Levels/2dSectionTest/5/0C/V52JXW8IV71LHO8NGL568V.uasset",
+				"C:/Users/B00838624/Desktop/NoMeaslyFeat/Content/__ExternalActors__/WilliamStuff/Levels/2dSectionTest/1/OK/EZ9R4XLHABEZ44OHYKPMQO.uasset",
+				"C:/Users/B00838624/Desktop/NoMeaslyFeat/Content/__ExternalActors__/WilliamStuff/Levels/2dSectionTest/0/MR/DMFRV7LUZGF4HIK1PXXGD4.uasset",
+				"C:/Users/B00838624/Desktop/NoMeaslyFeat/Content/__ExternalActors__/WilliamStuff/Levels/2dSectionTest/A/KH/RSZLZPI51VNRNBUMSV0FIW.uasset",
+				"C:/Users/B00838624/Desktop/NoMeaslyFeat/Content/WilliamStuff/TriggerCameraMovement2D.uasset",
+				"C:/Users/B00838624/Desktop/NoMeaslyFeat/Content/WilliamStuff/Ai/SeekingAI/seekingAITestCantSee.uasset",
+				"C:/Users/B00838624/Desktop/NoMeaslyFeat/Content/WilliamStuff/Ai/SeekingAI/AiObject_PatrolPathPoint.uasset",
+				"C:/Users/B00838624/Desktop/NoMeaslyFeat/Content/WilliamStuff/Ai/SeekingAI/AIBehaviourComponent.uasset",
+				"C:/Users/B00838624/Desktop/NoMeaslyFeat/Content/WilliamStuff/Ai/SeekingAI/SeekingAI.uasset",
+				"C:/Users/B00838624/Desktop/NoMeaslyFeat/Content/__ExternalActors__/WilliamStuff/Levels/2dSectionTest/1/NO/GBEYKIZMDRBZXJE76YG7I3.uasset",
+				"C:/Users/B00838624/Desktop/NoMeaslyFeat/Content/__ExternalActors__/WilliamStuff/Levels/2dSectionTest/0/RA/2OWCW916U6L5KAHX5TXMY3.uasset",
+				"C:/Users/B00838624/Desktop/NoMeaslyFeat/Content/__ExternalActors__/WilliamStuff/Levels/2dSectionTest/7/CS/UI0AE6V6J01HACODV3HYA3.uasset",
+				"C:/Users/B00838624/Desktop/NoMeaslyFeat/Content/__ExternalActors__/WilliamStuff/Levels/2dSectionTest/8/DJ/PRPHX7EG5CXR15E9OWD5VS.uasset",
+				"C:/Users/B00838624/Desktop/NoMeaslyFeat/Content/__ExternalActors__/WilliamStuff/Levels/2dSectionTest/B/R7/8TFC5ZHOLBYUE1DTMA9TD5.uasset",
+				"C:/Users/B00838624/Desktop/NoMeaslyFeat/Content/__ExternalActors__/WilliamStuff/Levels/2dSectionTest/C/2E/9UXZPBVU92B4RK38TVH7SQ.uasset",
+				"C:/Users/B00838624/Desktop/NoMeaslyFeat/Content/__ExternalActors__/WilliamStuff/Levels/2dSectionTest/6/2C/CG1DGXFTMW17HDP5HSOQQ9.uasset",
+				"C:/Users/B00838624/Desktop/NoMeaslyFeat/Content/__ExternalActors__/WilliamStuff/Levels/2dSectionTest/5/IQ/DSZN0ANCF0VK94RYWQSMP4.uasset",
+				"C:/Users/B00838624/Desktop/NoMeaslyFeat/Content/WilliamStuff/Ai/SeekingAI/SeekingAI_BT.uasset",
+				"C:/Users/B00838624/Desktop/NoMeaslyFeat/Content/WilliamStuff/Ai/SeekingAI/SeekingAI_Controller.uasset"
 			]
 		}
 	]
