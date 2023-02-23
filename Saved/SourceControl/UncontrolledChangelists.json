@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"E:/Uni Work/Year 2/LaunchTitle/NoMeaslyFeat/Content/__ExternalActors__/WilliamStuff/Levels/2dSectionTest/4/4U/ZCZWCOUCQ45A64S5DVNHF1.uasset",
 				"E:/Uni Work/Year 2/LaunchTitle/NoMeaslyFeat/Content/__ExternalActors__/WilliamStuff/Levels/2dSectionTest/2/RS/30TJ0FZXQW2668J8AZUVA4.uasset",
 				"E:/Uni Work/Year 2/LaunchTitle/NoMeaslyFeat/Content/__ExternalActors__/WilliamStuff/Levels/2dSectionTest/6/LU/75CCKC3Y7JPMSBVWUAJ0ZD.uasset",
@@ -24,6 +25,22 @@
 				"E:/Uni Work/Year 2/LaunchTitle/NoMeaslyFeat/Content/__ExternalActors__/WilliamStuff/Levels/2dSectionTest/E/BD/HSG9N4YIGBP0AEAXUNB2JB.uasset",
 				"E:/Uni Work/Year 2/LaunchTitle/NoMeaslyFeat/Content/WilliamStuff/DropBlockForWall.uasset",
 				"E:/Uni Work/Year 2/LaunchTitle/NoMeaslyFeat/Content/__ExternalActors__/WilliamStuff/Levels/2dSectionTest/6/1G/AKSM3IDW67RRMW0WNMZDJ1.uasset"
+=======
+				"C:/Users/B00838624/Desktop/NoMeaslyFeat/Content/WilliamStuff/TriggerCameraMovement.uasset",
+				"C:/Users/B00838624/Desktop/NoMeaslyFeat/Content/__ExternalActors__/WilliamStuff/Levels/2dSectionTest/3/ED/EKIPK3WZXAIQN9T9IBTQVC.uasset",
+				"C:/Users/B00838624/Desktop/NoMeaslyFeat/Content/__ExternalActors__/WilliamStuff/Levels/2dSectionTest/A/FR/4N4W3D62HT5EQ0JNK7OXPI.uasset",
+				"C:/Users/B00838624/Desktop/NoMeaslyFeat/Content/__ExternalActors__/WilliamStuff/Levels/2dSectionTest/7/CS/UI0AE6V6J01HACODV3HYA3.uasset",
+				"C:/Users/B00838624/Desktop/NoMeaslyFeat/Content/WilliamStuff/Levels/2dSectionTest.umap",
+				"C:/Users/B00838624/Desktop/NoMeaslyFeat/Content/WilliamStuff/MoveCameraTo.uasset",
+				"C:/Users/B00838624/Desktop/NoMeaslyFeat/Content/WilliamStuff/ResetCameraMovement2D.uasset",
+				"C:/Users/B00838624/Desktop/NoMeaslyFeat/Content/WilliamStuff/TriggerCameraMovement2D.uasset",
+				"C:/Users/B00838624/Desktop/NoMeaslyFeat/Content/__ExternalActors__/WilliamStuff/Levels/2dSectionTest/2/77/AFH8JP5T7HJTSI0L5G1WC5.uasset",
+				"C:/Users/B00838624/Desktop/NoMeaslyFeat/Content/__ExternalActors__/WilliamStuff/Levels/2dSectionTest/8/DJ/PRPHX7EG5CXR15E9OWD5VS.uasset",
+				"D:/NoMeasleyFeat/NoMeaslyFeat/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/NoMeasleyFeat/NoMeaslyFeat/Content/DylanStuff/Push/BP_MoveableObject.uasset",
+				"D:/NoMeasleyFeat/NoMeaslyFeat/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/XJ/KTI5ARMOQ3UGSBBH1QXUOF.uasset",
+				"D:/NoMeasleyFeat/NoMeaslyFeat/Content/__ExternalActors__/WilliamStuff/Levels/2dSectionTest/0/RA/2OWCW916U6L5KAHX5TXMY3.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
