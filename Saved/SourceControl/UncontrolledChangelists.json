@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/Daryl/Desktop/NoMeaslyFeat/Content/WilliamStuff/Ai/SeekingAI/SeekingAI_Controller.uasset",
 				"C:/Users/Daryl/Desktop/NoMeaslyFeat/Content/WilliamStuff/Levels/2dSectionTest.umap",
 				"C:/Users/Daryl/Desktop/NoMeaslyFeat/Content/WilliamStuff/Ai/SeekingAI/AIBehaviour.uasset",
@@ -38,6 +39,16 @@
 				"C:/Users/B00838624/Desktop/NoMeaslyFeat/Content/__ExternalActors__/WilliamStuff/Levels/2dSectionTest/5/IQ/DSZN0ANCF0VK94RYWQSMP4.uasset",
 				"C:/Users/B00838624/Desktop/NoMeaslyFeat/Content/WilliamStuff/Ai/SeekingAI/SeekingAI_BT.uasset",
 				"C:/Users/B00838624/Desktop/NoMeaslyFeat/Content/WilliamStuff/Ai/SeekingAI/SeekingAI_Controller.uasset"
+=======
+				"C:/Users/Ronan/Documents/GitHub/NoMeaslyFeat/Content/RonanStuff/RonansGym.umap",
+				"C:/Users/Ronan/Documents/GitHub/NoMeaslyFeat/Content/RonanStuff/triggerbox.uasset",
+				"C:/Users/Ronan/Documents/GitHub/NoMeaslyFeat/Content/RonanStuff/JunkStorage.umap",
+				"C:/Users/Ronan/Documents/GitHub/NoMeaslyFeat/Content/RonanStuff/_GENERATED/Ronan/CubeGridToolOutput_D381A849.uasset",
+				"D:/NoMeasleyFeat/NoMeaslyFeat/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/NoMeasleyFeat/NoMeaslyFeat/Content/DylanStuff/Push/BP_MoveableObject.uasset",
+				"D:/NoMeasleyFeat/NoMeaslyFeat/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/XJ/KTI5ARMOQ3UGSBBH1QXUOF.uasset",
+				"D:/NoMeasleyFeat/NoMeaslyFeat/Content/__ExternalActors__/WilliamStuff/Levels/2dSectionTest/0/RA/2OWCW916U6L5KAHX5TXMY3.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
