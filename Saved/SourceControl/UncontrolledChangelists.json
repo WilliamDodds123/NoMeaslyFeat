@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Ronan/Documents/GitHub/NoMeaslyFeat/Content/RonanStuff/RonansGym.umap",
+				"C:/Users/Ronan/Documents/GitHub/NoMeaslyFeat/Content/RonanStuff/JunkStorage.umap",
+				"C:/Users/Ronan/Documents/GitHub/NoMeaslyFeat/Content/RonanStuff/_GENERATED/Ronan/CubeGridToolOutput_5063C3D7.uasset",
+				"C:/Users/Ronan/Documents/GitHub/NoMeaslyFeat/Content/RonanStuff/_GENERATED/Ronan/CubeGridToolOutput_D381A849.uasset",
+				"C:/Users/Ronan/Documents/GitHub/NoMeaslyFeat/Content/RonanStuff/MovingPlatform_BP.uasset",
 				"C:/Users/B00838624/Documents/GitHub/NoMeaslyFeat/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
 				"C:/Users/B00838624/Documents/GitHub/NoMeaslyFeat/Content/WilliamStuff/Ai/SeekingAI/SeekingAITest.uasset",
 				"C:/Users/B00838624/Documents/GitHub/NoMeaslyFeat/Content/WilliamStuff/Ai/SeekingAI/SeekingAI/SeekingAI_Controller.uasset",
@@ -144,8 +149,7 @@
 				"D:/NoMeasleyFeat/NoMeaslyFeat/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/NoMeasleyFeat/NoMeaslyFeat/Content/DylanStuff/Push/BP_MoveableObject.uasset",
 				"D:/NoMeasleyFeat/NoMeaslyFeat/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/XJ/KTI5ARMOQ3UGSBBH1QXUOF.uasset",
-				"D:/NoMeasleyFeat/NoMeaslyFeat/Content/ThirdPerson/Blueprints/debug_showvelocity.uasset",
-				"C:/Users/Ronan/Documents/GitHub/NoMeaslyFeat/Content/RonanStuff/RonansGym.umap"
+				"D:/NoMeasleyFeat/NoMeaslyFeat/Content/ThirdPerson/Blueprints/debug_showvelocity.uasset"
 			]
 		}
 	]
