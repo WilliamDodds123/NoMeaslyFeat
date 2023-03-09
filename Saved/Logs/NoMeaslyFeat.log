@@ -2478,3 +2478,50 @@ Scale3D: 1.000000 1.000000 1.000000
 [2023.03.09-13.23.33:180][666]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2023.03.09-13.23.33:180][666]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
 [2023.03.09-13.23.33:180][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.09-13.25.15:691][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.03.09-13.25.15:702][363]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/WilliamStuff/Levels/ChaseSceneTest/3/N1/0YK5WB1TNJ7DUFYQE13GQR_Auto1
+[2023.03.09-13.25.15:702][363]LogSavePackage: Moving '../../../../../../Users/B00838624/Desktop/NoMeaslyFeat/Saved/0YK5WB1TNJ7DUFYQE13GQR_Auto1227A10534E215012D535FF92E81148E0.tmp' to '../../../../../../Users/B00838624/Desktop/NoMeaslyFeat/Saved/Autosaves/Game/__ExternalActors__/WilliamStuff/Levels/ChaseSceneTest/3/N1/0YK5WB1TNJ7DUFYQE13GQR_Auto1.uasset'
+[2023.03.09-13.25.15:705][363]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/WilliamStuff/Levels/ChaseSceneTest/C/JX/4255XIHQNE0PC8VMGYO81W_Auto1
+[2023.03.09-13.25.15:705][363]LogSavePackage: Moving '../../../../../../Users/B00838624/Desktop/NoMeaslyFeat/Saved/4255XIHQNE0PC8VMGYO81W_Auto183C9588142B2F748F415E19CA488058A.tmp' to '../../../../../../Users/B00838624/Desktop/NoMeaslyFeat/Saved/Autosaves/Game/__ExternalActors__/WilliamStuff/Levels/ChaseSceneTest/C/JX/4255XIHQNE0PC8VMGYO81W_Auto1.uasset'
+[2023.03.09-13.25.15:706][363]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/WilliamStuff/Levels/ChaseSceneTest' took 0.070
+[2023.03.09-13.25.15:706][363]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.070
+[2023.03.09-13.25.15:707][363]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WilliamStuff/Materials+Assets/GlowRed] ([1] browsable assets)...
+[2023.03.09-13.25.17:836][363]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.03.09-13.25.32:836][363]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005068s (15.002366s overbudget)
+[2023.03.09-13.25.32:841][363]LogShaderCompilers: Display: ================================================
+[2023.03.09-13.25.32:841][363]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.09-13.25.32:841][363]LogShaderCompilers: Display: Total job queries 6687, among them cache hits 37 (0.55%)
+[2023.03.09-13.25.32:841][363]LogShaderCompilers: Display: Tracking 6645 distinct input hashes that result in 4687 distinct outputs (70.53%)
+[2023.03.09-13.25.32:841][363]LogShaderCompilers: Display: RAM used: 40.12 MB (0.04 GB) of 819.20 MB (0.80 GB) budget. Usage: 4.90%
+[2023.03.09-13.25.32:841][363]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.09-13.25.32:841][363]LogShaderCompilers: Display: Shaders Compiled: 6645
+[2023.03.09-13.25.32:841][363]LogShaderCompilers: Display: Jobs assigned 6645, completed 6645 (100.00%)
+[2023.03.09-13.25.32:841][363]LogShaderCompilers: Display: Average time worker was idle: 69.89 s
+[2023.03.09-13.25.32:841][363]LogShaderCompilers: Display: Time job spent in pending queue: average 366.75 s, longest 764.88 s
+[2023.03.09-13.25.32:841][363]LogShaderCompilers: Display: Job execution time: average 11.63 s, max 75.15 s
+[2023.03.09-13.25.32:841][363]LogShaderCompilers: Display: Job life time (pending + execution): average 378.38 s, max 769.03
+[2023.03.09-13.25.32:841][363]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 862.14 s
+[2023.03.09-13.25.32:841][363]LogShaderCompilers: Display: Jobs were issued in 1002 batches (only local compilation was used), average 6.63 jobs/batch
+[2023.03.09-13.25.32:841][363]LogShaderCompilers: Display: Average processing rate: 7.71 jobs/sec
+[2023.03.09-13.25.32:841][363]LogShaderCompilers: Display: Total thread time: 7923.58 s
+[2023.03.09-13.25.32:841][363]LogShaderCompilers: Display: Total thread preprocess time: 547.01 s
+[2023.03.09-13.25.32:841][363]LogShaderCompilers: Display: Percentage time preprocessing: 6.90%
+[2023.03.09-13.25.32:841][363]LogShaderCompilers: Display: Effective parallelization: 9.19 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.03.09-13.25.32:842][363]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.09-13.25.32:842][363]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled    6 times, average 33.05 sec, max 68.23 sec, min 6.59 sec)
+[2023.03.09-13.25.32:842][363]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 12.85 sec, max 14.90 sec, min 9.24 sec)
+[2023.03.09-13.25.32:842][363]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 11.23 sec, max 17.37 sec, min 5.45 sec)
+[2023.03.09-13.25.32:842][363]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 4.81 sec, max 8.77 sec, min 1.65 sec)
+[2023.03.09-13.25.32:842][363]LogShaderCompilers: Display:                                             FDeferredLightPS (compiled  150 times, average 4.09 sec, max 4.99 sec, min 3.42 sec)
+[2023.03.09-13.25.32:842][363]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.09-13.25.32:842][363]LogShaderCompilers: Display:                                             FDeferredLightPS - 7.75% of total time (compiled  150 times, average 4.09 sec, max 4.99 sec, min 3.42 sec)
+[2023.03.09-13.25.32:842][363]LogShaderCompilers: Display:                                                   FTonemapCS - 3.30% of total time (compiled  420 times, average 0.62 sec, max 1.35 sec, min 0.50 sec)
+[2023.03.09-13.25.32:842][363]LogShaderCompilers: Display:          FBuildInstanceIdBufferAndCommandsFromPrimitiveIdsCs - 3.27% of total time (compiled  256 times, average 1.01 sec, max 1.53 sec, min 0.55 sec)
+[2023.03.09-13.25.32:842][363]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 2.81% of total time (compiled  128 times, average 1.74 sec, max 2.66 sec, min 1.11 sec)
+[2023.03.09-13.25.32:842][363]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 2.61% of total time (compiled  128 times, average 1.62 sec, max 2.08 sec, min 1.19 sec)
+[2023.03.09-13.25.32:842][363]LogShaderCompilers: Display: ================================================
+[2023.03.09-13.25.32:933][363]OBJ SavePackage:     Rendered thumbnail for [Material /Game/WilliamStuff/Materials+Assets/GlowRed.GlowRed]
+[2023.03.09-13.25.32:933][363]OBJ SavePackage: Finished generating thumbnails for package [/Game/WilliamStuff/Materials+Assets/GlowRed]
+[2023.03.09-13.25.32:934][363]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WilliamStuff/Materials+Assets/GlowRed_Auto1
+[2023.03.09-13.25.32:934][363]LogSavePackage: Moving '../../../../../../Users/B00838624/Desktop/NoMeaslyFeat/Saved/GlowRed_Auto1B7E369B64ADC8A8B357FFF90D3C636B0.tmp' to '../../../../../../Users/B00838624/Desktop/NoMeaslyFeat/Saved/Autosaves/Game/WilliamStuff/Materials+Assets/GlowRed_Auto1.uasset'
+[2023.03.09-13.25.32:936][363]LogFileHelpers: Auto-saving content packages took 17.229
