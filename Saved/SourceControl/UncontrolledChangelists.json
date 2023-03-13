@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/NoMeasleyFeat/NoMeaslyFeat/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/NoMeasleyFeat/NoMeaslyFeat/Content/DylanStuff/Push/BP_MoveableObject.uasset",
+				"D:/NoMeasleyFeat/NoMeaslyFeat/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/XJ/KTI5ARMOQ3UGSBBH1QXUOF.uasset",
+				"D:/NoMeasleyFeat/NoMeaslyFeat/Content/ThirdPerson/Blueprints/debug_showvelocity.uasset",
+				"D:/NoMeasleyFeat/NoMeaslyFeat/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
 				"C:/Users/B00838624.AD/Desktop/NoMeaslyFeat/Content/WilliamStuff/TeleportingPlatforms/TeleporterEntrance.uasset",
 				"C:/Users/B00838624.AD/Desktop/NoMeaslyFeat/Content/WilliamStuff/miscellaneous/TeleportingPlatforms/TeleporterExit.uasset",
 				"C:/Users/B00838624.AD/Desktop/NoMeaslyFeat/Content/WilliamStuff/TeleportingPlatforms/TeleporterExit.uasset",
@@ -171,11 +176,7 @@
 				"C:/Users/B00838624/Documents/GitHub/NoMeaslyFeat/Content/__ExternalObjects__/WilliamStuff/Levels/RandomStuffTesting/4/1M/UKV5M7BOHKYVH8VSULMHSG.uasset",
 				"C:/Users/B00838624/Documents/GitHub/NoMeaslyFeat/Content/__ExternalObjects__/WilliamStuff/Levels/RandomStuffTesting/2/GG/QRZ7WTFIW6MRJYS4SERZQU.uasset",
 				"C:/Users/B00838624/Documents/GitHub/NoMeaslyFeat/Content/WilliamStuff/Levels/RandomStuffTesting.umap",
-				"C:/Users/B00838624/Documents/GitHub/NoMeaslyFeat/Content/WilliamStuff/Levels/OtherMechanicsTest.umap",
-				"D:/NoMeasleyFeat/NoMeaslyFeat/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"D:/NoMeasleyFeat/NoMeaslyFeat/Content/DylanStuff/Push/BP_MoveableObject.uasset",
-				"D:/NoMeasleyFeat/NoMeaslyFeat/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/XJ/KTI5ARMOQ3UGSBBH1QXUOF.uasset",
-				"D:/NoMeasleyFeat/NoMeaslyFeat/Content/ThirdPerson/Blueprints/debug_showvelocity.uasset"
+				"C:/Users/B00838624/Documents/GitHub/NoMeaslyFeat/Content/WilliamStuff/Levels/OtherMechanicsTest.umap"
 			]
 		}
 	]
