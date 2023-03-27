@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/b00838052/repos/NoMeaslyFeat/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/b00838052/repos/NoMeaslyFeat/Content/MainLevels/Assets/Blueprints/BP_MoveableObject.uasset",
+				"D:/b00838052/repos/NoMeaslyFeat/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/XJ/KTI5ARMOQ3UGSBBH1QXUOF.uasset",
+				"D:/b00838052/repos/NoMeaslyFeat/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/2K/31G2TC57FT7XG4UOXE3XL9.uasset",
+				"D:/b00838052/repos/NoMeaslyFeat/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/ZP/06YP1814YKI18SQMGK3N2M.uasset",
+				"D:/b00838052/repos/NoMeaslyFeat/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/QL/HKUTDO7HXOP8C5AXMW2J9B.uasset",
 				"C:/Users/B00838624/Documents/GitHub/NoMeaslyFeat/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
 				"C:/Users/B00838624/Documents/GitHub/NoMeaslyFeat/Content/WilliamStuff/Ai/SeekingAI/SeekingAITest.uasset",
 				"C:/Users/B00838624/Documents/GitHub/NoMeaslyFeat/Content/WilliamStuff/Levels/ChaseSceneTest.umap",
