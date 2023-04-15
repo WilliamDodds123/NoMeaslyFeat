@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"H:/Launch Title/NoMeaslyFeat/Content/OwenStuff/LightWall/wall_Cover_Mat.uasset",
+				"H:/Launch Title/NoMeaslyFeat/Content/OwenStuff/LightWall/LightWall_BP.uasset",
+				"H:/Launch Title/NoMeaslyFeat/Content/OwenStuff/ModelScales.umap",
+				"H:/Launch Title/NoMeaslyFeat/Content/OwenStuff/LightWall/wall_alpha.uasset",
+				"H:/Launch Title/NoMeaslyFeat/Content/OwenStuff/LightWall/wall_lights.uasset",
+				"H:/Launch Title/NoMeaslyFeat/Content/OwenStuff/LightWall/wall_lights_Mat.uasset",
 				"C:/Users/B00838624.AD/Documents/GitHub/NoMeaslyFeat/Content/MainLevels/OrganicSection.umap",
 				"C:/Users/B00838624.AD/Documents/GitHub/NoMeaslyFeat/Content/MainLevels/Assets/Models/Plant_2.uasset",
 				"C:/Users/B00838624.AD/Documents/GitHub/NoMeaslyFeat/Content/MainLevels/Assets/Models/Plant_1.uasset",
