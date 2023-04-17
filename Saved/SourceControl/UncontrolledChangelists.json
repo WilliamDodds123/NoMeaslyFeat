@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/nomeasl/NoMeaslyFeat/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/nomeasl/NoMeaslyFeat/Content/MainLevels/Assets/Blueprints/BP_MoveableObject.uasset",
+				"D:/nomeasl/NoMeaslyFeat/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/2K/31G2TC57FT7XG4UOXE3XL9.uasset",
 				"C:/Users/Ronan/Documents/GitHub/NoMeaslyFeat/Content/RonanStuff/RonansGym.umap",
 				"C:/Users/Ronan/Documents/GitHub/NoMeaslyFeat/Content/RonanStuff/JunkStorage.umap",
 				"C:/Users/Ronan/Documents/GitHub/NoMeaslyFeat/Content/RonanStuff/_GENERATED/Ronan/CubeGridToolOutput_5063C3D7.uasset",
