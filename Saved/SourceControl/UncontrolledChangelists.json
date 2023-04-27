@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/games/Desktop/Git/NoMeaslyFeat/Content/OwenStuff/ModelScales.umap",
 				"C:/Users/games/Desktop/Git/NoMeaslyFeat/Content/OwenStuff/Models/RileyRig/RileyTest.uasset",
 				"C:/Users/games/Desktop/Git/NoMeaslyFeat/Content/OwenStuff/Models/RILEY_TEXTURE_Mat.uasset",
@@ -71,6 +72,21 @@
 				"D:/NoMeasleyFeat/NoMeaslyFeat/Content/MannyStuff/RileyAnims/RILEY_JUMP_SINGLEstart.uasset",
 				"D:/NoMeasleyFeat/NoMeaslyFeat/Content/MannyStuff/RileyAnims/RILEY_JUMP_SINGLEjum.uasset",
 				"D:/NoMeasleyFeat/NoMeaslyFeat/Content/MannyStuff/RileyAnims/RILEY_JUMP_SINGLEland.uasset",
+=======
+				"D:/NoMeaslyFeat/Content/OwenStuff/Creature_Animated/Snool/Snool_Animated.uasset",
+				"D:/NoMeaslyFeat/Content/OwenStuff/Creature_Animated/Snool/Snool_Animated_Anim.uasset",
+				"D:/NoMeaslyFeat/Content/OwenStuff/Creature_Animated/Snool/Snool_Animated_PhysicsAsset.uasset",
+				"D:/NoMeaslyFeat/Content/OwenStuff/Creature_Animated/Snool/Snool_Animated_Skeleton.uasset",
+				"D:/NoMeaslyFeat/Content/OwenStuff/AlienAnimations/AlienWalk/AlienWalk.uasset",
+				"D:/NoMeaslyFeat/Content/OwenStuff/AlienAnimations/AlienWalk/AlienWalk_Anim.uasset",
+				"D:/NoMeaslyFeat/Content/OwenStuff/AlienAnimations/AlienWalk/AlienWalk_PhysicsAsset.uasset",
+				"D:/NoMeaslyFeat/Content/OwenStuff/AlienAnimations/AlienWalk/AlienWalk_Skeleton.uasset",
+				"D:/NoMeaslyFeat/Content/OwenStuff/Hologram/Earth_mat.uasset",
+				"D:/NoMeaslyFeat/Content/OwenStuff/Riley_Animations/Slide.uasset",
+				"D:/NoMeaslyFeat/Content/OwenStuff/Riley_Animations/Slide_Anim.uasset",
+				"D:/NoMeaslyFeat/Content/OwenStuff/Riley_Animations/Slide_PhysicsAsset.uasset",
+				"D:/NoMeaslyFeat/Content/OwenStuff/Riley_Animations/Slide_Skeleton.uasset",
+>>>>>>> Stashed changes
 				"C:/Users/B00838624/Documents/GitHub/NoMeaslyFeat/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
 				"C:/Users/B00838624/Documents/GitHub/NoMeaslyFeat/Content/WilliamStuff/Ai/SeekingAI/SeekingAITest.uasset",
 				"C:/Users/B00838624/Documents/GitHub/NoMeaslyFeat/Content/WilliamStuff/Levels/ChaseSceneTest.umap",
