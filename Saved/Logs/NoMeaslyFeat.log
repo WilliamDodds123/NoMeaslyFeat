@@ -1050,3 +1050,11 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.04-09.41.03:601][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.1/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
 [2023.05.04-09.41.03:603][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.1/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
 [2023.05.04-09.43.09:195][  0]LogDerivedDataCache: C:/Users/Ronan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:25.642 and deleted 0 files with total size 0 MiB. Scanned 13260 files in 12913 folders with total size 417 MiB.
+[2023.05.04-10.43.08:871][  0]LogDerivedDataCache: C:/Users/Ronan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:25.317 and deleted 0 files with total size 0 MiB. Scanned 13276 files in 12929 folders with total size 417 MiB.
+[2023.05.04-11.01.45:579][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.05.04-11.17.58:367][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.05.04-11.21.32:757][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.05.04-11.38.55:216][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.05.04-11.45.50:893][  0]LogDerivedDataCache: C:/Users/Ronan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:25.451 and deleted 0 files with total size 0 MiB. Scanned 13299 files in 12951 folders with total size 417 MiB.
+[2023.05.04-12.15.50:584][  0]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [5000ms] waiting for h/w. InstanceID=1
+[2023.05.04-12.38.58:239][  0]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [1391049ms] waiting for h/w. InstanceID=1
