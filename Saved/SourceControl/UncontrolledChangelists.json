@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/games/Desktop/Git/NoMeaslyFeat/Content/MainLevels/OrganicSection.umap",
+				"C:/Users/games/Desktop/Git/NoMeaslyFeat/Content/MainLevels/Assets/Blueprints/StretchableAssets/Rope.uasset",
+				"C:/Users/games/Desktop/Git/NoMeaslyFeat/Content/WilliamStuff/Levels/2dSectionTest.umap",
+				"C:/Users/games/Desktop/Git/NoMeaslyFeat/Content/MainLevels/Assets/Blueprints/FloatingPlatform.uasset",
+				"C:/Users/games/Desktop/Git/NoMeaslyFeat/Content/MainLevels/Assets/Models/Guitar.uasset",
+				"C:/Users/games/Desktop/Git/NoMeaslyFeat/Content/MainLevels/Assets/Blueprints/FallingPlatform.uasset",
 				"C:/Users/B00838624/Documents/GitHub/NoMeaslyFeat/Content/RonanStuff/JunkStoragePersistent.umap",
 				"C:/Users/B00838624/Documents/GitHub/NoMeaslyFeat/Content/WilliamStuff/Camera/CameraSpline/MovingCamera3.uasset",
 				"C:/Users/B00838624/Documents/GitHub/NoMeaslyFeat/Content/__ExternalActors__/WilliamStuff/Levels/2dSectionTest/3/IZ/QHWQFNYE462QBHOIV2TVF0.uasset",
