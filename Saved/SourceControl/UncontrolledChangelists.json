@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/NoMeasleyFeat/NoMeaslyFeat/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/NoMeasleyFeat/NoMeaslyFeat/Content/MainLevels/Assets/Blueprints/BP_MoveableObject.uasset",
+				"D:/NoMeasleyFeat/NoMeaslyFeat/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/2K/31G2TC57FT7XG4UOXE3XL9.uasset",
+				"D:/NoMeasleyFeat/NoMeaslyFeat/Content/DylanStuff/RILEY_IDLE_FINAL_Skeleton_AnimBlueprint.uasset",
 				"C:/Users/juded/OneDrive/Desktop/NoMeaslyFeat/NoMeaslyFeat/Content/JudeStuff/JudesMap.umap",
 				"C:/Users/juded/OneDrive/Desktop/NoMeaslyFeat/NoMeaslyFeat/Content/JudeStuff/Laser.uasset",
 				"C:/Users/juded/OneDrive/Desktop/NoMeaslyFeat/NoMeaslyFeat/Content/JudeStuff/VentSmoke.uasset",
